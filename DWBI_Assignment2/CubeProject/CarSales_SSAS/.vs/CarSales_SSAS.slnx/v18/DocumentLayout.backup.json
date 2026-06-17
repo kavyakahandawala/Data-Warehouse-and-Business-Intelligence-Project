@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Downloads\\CarSales_DWBI\\CarSales_SSAS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34C4F6C5-D14B-96E0-2305-310985C896FF}|CarSales_SSAS\\CarSales_SSAS.dwproj|C:\\Users\\USER\\Downloads\\CarSales_DWBI\\CarSales_SSAS\\CarSales_SSAS\\CarSales_DSV.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{34C4F6C5-D14B-96E0-2305-310985C896FF}|CarSales_SSAS\\CarSales_SSAS.dwproj|solutionrelative:CarSales_SSAS\\CarSales_DSV.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34C4F6C5-D14B-96E0-2305-310985C896FF}|CarSales_SSAS\\CarSales_SSAS.dwproj|C:\\Users\\USER\\Downloads\\CarSales_DWBI\\CarSales_SSAS\\CarSales_SSAS\\CarSales_Cube.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{34C4F6C5-D14B-96E0-2305-310985C896FF}|CarSales_SSAS\\CarSales_SSAS.dwproj|solutionrelative:CarSales_SSAS\\CarSales_Cube.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34C4F6C5-D14B-96E0-2305-310985C896FF}|CarSales_SSAS\\CarSales_SSAS.dwproj|C:\\Users\\USER\\Downloads\\CarSales_DWBI\\CarSales_SSAS\\CarSales_SSAS\\Car.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{34C4F6C5-D14B-96E0-2305-310985C896FF}|CarSales_SSAS\\CarSales_SSAS.dwproj|solutionrelative:CarSales_SSAS\\Car.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34C4F6C5-D14B-96E0-2305-310985C896FF}|CarSales_SSAS\\CarSales_SSAS.dwproj|C:\\Users\\USER\\Downloads\\CarSales_DWBI\\CarSales_SSAS\\CarSales_SSAS\\Customer.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{34C4F6C5-D14B-96E0-2305-310985C896FF}|CarSales_SSAS\\CarSales_SSAS.dwproj|solutionrelative:CarSales_SSAS\\Customer.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34C4F6C5-D14B-96E0-2305-310985C896FF}|CarSales_SSAS\\CarSales_SSAS.dwproj|C:\\Users\\USER\\Downloads\\CarSales_DWBI\\CarSales_SSAS\\CarSales_SSAS\\Date.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{34C4F6C5-D14B-96E0-2305-310985C896FF}|CarSales_SSAS\\CarSales_SSAS.dwproj|solutionrelative:CarSales_SSAS\\Date.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\CarSales_DWBI\\CarSales_SSAS\\CarSales_SSAS\\Car.dim",
+              "RelativeDocumentMoniker": "CarSales_SSAS\\Car.dim",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\CarSales_DWBI\\CarSales_SSAS\\CarSales_SSAS\\Car.dim [Design]",
+              "RelativeToolTip": "CarSales_SSAS\\Car.dim [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQeSURBVDhPnZTPaxtHHMXfd3dHK8lWJGO1rOM0/hEb4xpRCk4xWEXCDdg5JDQuBUMODZTcCkmhUCj01H8gFNpLCORiQXDBTX2Ie3AcG4kGfEiwnIODnY1iK7Ycwqor7Wi10mh6qGUUp7TQB3MY5vs\u002B8515wwAAHMe57jjOY875Duf8hpQygv8pchzn\u002BsHBwaePHj360LIsXyKReB6NRmcBpCKRyLPjhmKx2OH3\u002B8eEEFeIyA\u002BADpfWgsHgDxqAK2tra32ZTOaEbduo1WpnLl26NBMKhVYBvAEsFosdjLFP8vn85a2trfMvX770CSEoFoshFosRAChE9EEulzuRy\u002BVQKBTw5MkT1mg0RqSU4SZISkmvXr0KMcY\u002BJqLL1Wr1/Pr6uj43N0epVArZbPZoUwUABgYG0NXVhXA4jFgsBsbYUcGh1FAo1E1EV\u002Bv1\u002BqSmaXpnZyfa29vh9/uhqqoEII\u002BAiUQCsVgM3d3dmJ6eRiAQOA5suK5bkFLu7ezslJaXl7G4uIipqSkkk0mcPHnSA\u002BACgCal5Lqu6z6fT1VVFYFAQAJwpZQCfx9XdRznXcbYtc3NzXg6nQ6bpomJiQmMj49DCFHVdf2eoii3cXiHNwG8aLZCRJyIZhljOSmlZtv2gOd5X25vb3\u002BWTqf79/f39b6\u002Bvmo8Hj/o6uqq9Pb23jMMY9Z13T8AQPE870ciak3TkVLeYoy9sG37jOu6F/f3969mMpk\u002B0zR1wzCq8Xj8WX9//11N0\u002B5LKW/XarWlSCRiAYBy\u002BNZ4C1AA2OGctwshPn/9\u002BvVXDx8\u002BPL28vKwODg6KZDK5Ozw8vOB53reKonzDOb/fhKEZSquklEq9Xm8nomu7u7tfrKysdLcEkD916tRtIcSNcDj858bGxnY0Gi23\u002Bt8CAghpmvbd5ubmxQcPHrz39OlTNZlMirGxsRednZ0/BYPBuba2tgMiaoyOjtaISLaa3wLW63W/aZrnjwXw3DCMm\u002BFw\u002BK6u69tEJI77mtJaJ57noVAoKJlM5h3TNHEIezY4OLgghLjl8/nK5XJ5qFwunwagNn2NRsNmjO0EAgHzjQ4ty0I6ncbS0hKGhoYwMTFhDw8Pr3med4uIqFKpvK8oynVFUX4hogXXdRdKpdKC67o/V6vVy5ZlRQgAOOe/pVKpC3fu3EFHRwempqYwPj4OwzAajLGKlLJERA0ppQagDUCwUqnQ/Pw81tfXMTIyUjt37ty2YRi/v3FkIQQsy8Lq6io2Njbg8/mUQ0Bba12zNp/Po1gsolwuM8ZY78zMzPRRh9ls9kLrr/Ff8jwP2WwWe3t76OnpQSKRsCcnJ80m8HsAHx03/YOCUso\u002BAKer1aq6srKCra0t9PT02GfPnn0cjUZ/PW74VxWLxX7O\u002BQ3OeZlzLpvDcZzHpVLpawD4C3qZCWPz5R2rAAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-04-01T12:40:08.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\CarSales_DWBI\\CarSales_SSAS\\CarSales_SSAS\\Customer.dim",
+              "RelativeDocumentMoniker": "CarSales_SSAS\\Customer.dim",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\CarSales_DWBI\\CarSales_SSAS\\CarSales_SSAS\\Customer.dim [Design]",
+              "RelativeToolTip": "CarSales_SSAS\\Customer.dim [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQeSURBVDhPnZTPaxtHHMXfd3dHK8lWJGO1rOM0/hEb4xpRCk4xWEXCDdg5JDQuBUMODZTcCkmhUCj01H8gFNpLCORiQXDBTX2Ie3AcG4kGfEiwnIODnY1iK7Ycwqor7Wi10mh6qGUUp7TQB3MY5vs\u002B8515wwAAHMe57jjOY875Duf8hpQygv8pchzn\u002BsHBwaePHj360LIsXyKReB6NRmcBpCKRyLPjhmKx2OH3\u002B8eEEFeIyA\u002BADpfWgsHgDxqAK2tra32ZTOaEbduo1WpnLl26NBMKhVYBvAEsFosdjLFP8vn85a2trfMvX770CSEoFoshFosRAChE9EEulzuRy\u002BVQKBTw5MkT1mg0RqSU4SZISkmvXr0KMcY\u002BJqLL1Wr1/Pr6uj43N0epVArZbPZoUwUABgYG0NXVhXA4jFgsBsbYUcGh1FAo1E1EV\u002Bv1\u002BqSmaXpnZyfa29vh9/uhqqoEII\u002BAiUQCsVgM3d3dmJ6eRiAQOA5suK5bkFLu7ezslJaXl7G4uIipqSkkk0mcPHnSA\u002BACgCal5Lqu6z6fT1VVFYFAQAJwpZQCfx9XdRznXcbYtc3NzXg6nQ6bpomJiQmMj49DCFHVdf2eoii3cXiHNwG8aLZCRJyIZhljOSmlZtv2gOd5X25vb3\u002BWTqf79/f39b6\u002Bvmo8Hj/o6uqq9Pb23jMMY9Z13T8AQPE870ciak3TkVLeYoy9sG37jOu6F/f3969mMpk\u002B0zR1wzCq8Xj8WX9//11N0\u002B5LKW/XarWlSCRiAYBy\u002BNZ4C1AA2OGctwshPn/9\u002BvVXDx8\u002BPL28vKwODg6KZDK5Ozw8vOB53reKonzDOb/fhKEZSquklEq9Xm8nomu7u7tfrKysdLcEkD916tRtIcSNcDj858bGxnY0Gi23\u002Bt8CAghpmvbd5ubmxQcPHrz39OlTNZlMirGxsRednZ0/BYPBuba2tgMiaoyOjtaISLaa3wLW63W/aZrnjwXw3DCMm\u002BFw\u002BK6u69tEJI77mtJaJ57noVAoKJlM5h3TNHEIezY4OLgghLjl8/nK5XJ5qFwunwagNn2NRsNmjO0EAgHzjQ4ty0I6ncbS0hKGhoYwMTFhDw8Pr3med4uIqFKpvK8oynVFUX4hogXXdRdKpdKC67o/V6vVy5ZlRQgAOOe/pVKpC3fu3EFHRwempqYwPj4OwzAajLGKlLJERA0ppQagDUCwUqnQ/Pw81tfXMTIyUjt37ty2YRi/v3FkIQQsy8Lq6io2Njbg8/mUQ0Bba12zNp/Po1gsolwuM8ZY78zMzPRRh9ls9kLrr/Ff8jwP2WwWe3t76OnpQSKRsCcnJ80m8HsAHx03/YOCUso\u002BAKer1aq6srKCra0t9PT02GfPnn0cjUZ/PW74VxWLxX7O\u002BQ3OeZlzLpvDcZzHpVLpawD4C3qZCWPz5R2rAAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-04-01T12:32:44.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarSales_Cube.cube [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\CarSales_DWBI\\CarSales_SSAS\\CarSales_SSAS\\CarSales_Cube.cube",
+              "RelativeDocumentMoniker": "CarSales_SSAS\\CarSales_Cube.cube",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\CarSales_DWBI\\CarSales_SSAS\\CarSales_SSAS\\CarSales_Cube.cube [Design]",
+              "RelativeToolTip": "CarSales_SSAS\\CarSales_Cube.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-31T21:51:32.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarSales_DSV.dsv [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\CarSales_DWBI\\CarSales_SSAS\\CarSales_SSAS\\CarSales_DSV.dsv",
+              "RelativeDocumentMoniker": "CarSales_SSAS\\CarSales_DSV.dsv",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\CarSales_DWBI\\CarSales_SSAS\\CarSales_SSAS\\CarSales_DSV.dsv [Design]",
+              "RelativeToolTip": "CarSales_SSAS\\CarSales_DSV.dsv [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-31T21:51:24.735Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Date.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\CarSales_DWBI\\CarSales_SSAS\\CarSales_SSAS\\Date.dim",
+              "RelativeDocumentMoniker": "CarSales_SSAS\\Date.dim",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\CarSales_DWBI\\CarSales_SSAS\\CarSales_SSAS\\Date.dim [Design]",
+              "RelativeToolTip": "CarSales_SSAS\\Date.dim [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQeSURBVDhPnZTPaxtHHMXfd3dHK8lWJGO1rOM0/hEb4xpRCk4xWEXCDdg5JDQuBUMODZTcCkmhUCj01H8gFNpLCORiQXDBTX2Ie3AcG4kGfEiwnIODnY1iK7Ycwqor7Wi10mh6qGUUp7TQB3MY5vs\u002B8515wwAAHMe57jjOY875Duf8hpQygv8pchzn\u002BsHBwaePHj360LIsXyKReB6NRmcBpCKRyLPjhmKx2OH3\u002B8eEEFeIyA\u002BADpfWgsHgDxqAK2tra32ZTOaEbduo1WpnLl26NBMKhVYBvAEsFosdjLFP8vn85a2trfMvX770CSEoFoshFosRAChE9EEulzuRy\u002BVQKBTw5MkT1mg0RqSU4SZISkmvXr0KMcY\u002BJqLL1Wr1/Pr6uj43N0epVArZbPZoUwUABgYG0NXVhXA4jFgsBsbYUcGh1FAo1E1EV\u002Bv1\u002BqSmaXpnZyfa29vh9/uhqqoEII\u002BAiUQCsVgM3d3dmJ6eRiAQOA5suK5bkFLu7ezslJaXl7G4uIipqSkkk0mcPHnSA\u002BACgCal5Lqu6z6fT1VVFYFAQAJwpZQCfx9XdRznXcbYtc3NzXg6nQ6bpomJiQmMj49DCFHVdf2eoii3cXiHNwG8aLZCRJyIZhljOSmlZtv2gOd5X25vb3\u002BWTqf79/f39b6\u002Bvmo8Hj/o6uqq9Pb23jMMY9Z13T8AQPE870ciak3TkVLeYoy9sG37jOu6F/f3969mMpk\u002B0zR1wzCq8Xj8WX9//11N0\u002B5LKW/XarWlSCRiAYBy\u002BNZ4C1AA2OGctwshPn/9\u002BvVXDx8\u002BPL28vKwODg6KZDK5Ozw8vOB53reKonzDOb/fhKEZSquklEq9Xm8nomu7u7tfrKysdLcEkD916tRtIcSNcDj858bGxnY0Gi23\u002Bt8CAghpmvbd5ubmxQcPHrz39OlTNZlMirGxsRednZ0/BYPBuba2tgMiaoyOjtaISLaa3wLW63W/aZrnjwXw3DCMm\u002BFw\u002BK6u69tEJI77mtJaJ57noVAoKJlM5h3TNHEIezY4OLgghLjl8/nK5XJ5qFwunwagNn2NRsNmjO0EAgHzjQ4ty0I6ncbS0hKGhoYwMTFhDw8Pr3med4uIqFKpvK8oynVFUX4hogXXdRdKpdKC67o/V6vVy5ZlRQgAOOe/pVKpC3fu3EFHRwempqYwPj4OwzAajLGKlLJERA0ppQagDUCwUqnQ/Pw81tfXMTIyUjt37ty2YRi/v3FkIQQsy8Lq6io2Njbg8/mUQ0Bba12zNp/Po1gsolwuM8ZY78zMzPRRh9ls9kLrr/Ff8jwP2WwWe3t76OnpQSKRsCcnJ80m8HsAHx03/YOCUso\u002BAKer1aq6srKCra0t9PT02GfPnn0cjUZ/PW74VxWLxX7O\u002BQ3OeZlzLpvDcZzHpVLpawD4C3qZCWPz5R2rAAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-03-31T21:51:21.741Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

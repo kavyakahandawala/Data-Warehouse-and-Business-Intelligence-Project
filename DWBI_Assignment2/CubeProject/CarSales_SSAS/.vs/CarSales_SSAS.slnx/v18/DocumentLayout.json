@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Downloads\\CarSales_DWBI\\CarSales_SSAS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34C4F6C5-D14B-96E0-2305-310985C896FF}|CarSales_SSAS\\CarSales_SSAS.dwproj|C:\\Users\\USER\\Downloads\\CarSales_DWBI\\CarSales_SSAS\\CarSales_SSAS\\CarSales_Cube.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{34C4F6C5-D14B-96E0-2305-310985C896FF}|CarSales_SSAS\\CarSales_SSAS.dwproj|solutionrelative:CarSales_SSAS\\CarSales_Cube.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34C4F6C5-D14B-96E0-2305-310985C896FF}|CarSales_SSAS\\CarSales_SSAS.dwproj|C:\\Users\\USER\\Downloads\\CarSales_DWBI\\CarSales_SSAS\\CarSales_SSAS\\CarSales_Admin_Role.role||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{34C4F6C5-D14B-96E0-2305-310985C896FF}|CarSales_SSAS\\CarSales_SSAS.dwproj|solutionrelative:CarSales_SSAS\\CarSales_Admin_Role.role||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34C4F6C5-D14B-96E0-2305-310985C896FF}|CarSales_SSAS\\CarSales_SSAS.dwproj|C:\\Users\\USER\\Downloads\\CarSales_DWBI\\CarSales_SSAS\\CarSales_SSAS\\Customer.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{34C4F6C5-D14B-96E0-2305-310985C896FF}|CarSales_SSAS\\CarSales_SSAS.dwproj|solutionrelative:CarSales_SSAS\\Customer.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34C4F6C5-D14B-96E0-2305-310985C896FF}|CarSales_SSAS\\CarSales_SSAS.dwproj|C:\\Users\\USER\\Downloads\\CarSales_DWBI\\CarSales_SSAS\\CarSales_SSAS\\Car.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{34C4F6C5-D14B-96E0-2305-310985C896FF}|CarSales_SSAS\\CarSales_SSAS.dwproj|solutionrelative:CarSales_SSAS\\Car.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34C4F6C5-D14B-96E0-2305-310985C896FF}|CarSales_SSAS\\CarSales_SSAS.dwproj|C:\\Users\\USER\\Downloads\\CarSales_DWBI\\CarSales_SSAS\\CarSales_SSAS\\Date.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{34C4F6C5-D14B-96E0-2305-310985C896FF}|CarSales_SSAS\\CarSales_SSAS.dwproj|solutionrelative:CarSales_SSAS\\Date.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34C4F6C5-D14B-96E0-2305-310985C896FF}|CarSales_SSAS\\CarSales_SSAS.dwproj|C:\\Users\\USER\\Downloads\\CarSales_DWBI\\CarSales_SSAS\\CarSales_SSAS\\Payment.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{34C4F6C5-D14B-96E0-2305-310985C896FF}|CarSales_SSAS\\CarSales_SSAS.dwproj|solutionrelative:CarSales_SSAS\\Payment.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34C4F6C5-D14B-96E0-2305-310985C896FF}|CarSales_SSAS\\CarSales_SSAS.dwproj|C:\\Users\\USER\\Downloads\\CarSales_DWBI\\CarSales_SSAS\\CarSales_SSAS\\Dealer.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{34C4F6C5-D14B-96E0-2305-310985C896FF}|CarSales_SSAS\\CarSales_SSAS.dwproj|solutionrelative:CarSales_SSAS\\Dealer.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34C4F6C5-D14B-96E0-2305-310985C896FF}|CarSales_SSAS\\CarSales_SSAS.dwproj|C:\\Users\\USER\\Downloads\\CarSales_DWBI\\CarSales_SSAS\\CarSales_SSAS\\CarSales_DSV.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{34C4F6C5-D14B-96E0-2305-310985C896FF}|CarSales_SSAS\\CarSales_SSAS.dwproj|solutionrelative:CarSales_SSAS\\CarSales_DSV.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarSales_Admin_Role.role [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\CarSales_DWBI\\CarSales_SSAS\\CarSales_SSAS\\CarSales_Admin_Role.role",
+              "RelativeDocumentMoniker": "CarSales_SSAS\\CarSales_Admin_Role.role",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\CarSales_DWBI\\CarSales_SSAS\\CarSales_SSAS\\CarSales_Admin_Role.role [Design]",
+              "RelativeToolTip": "CarSales_SSAS\\CarSales_Admin_Role.role [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-03T08:16:00.194Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Payment.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\CarSales_DWBI\\CarSales_SSAS\\CarSales_SSAS\\Payment.dim",
+              "RelativeDocumentMoniker": "CarSales_SSAS\\Payment.dim",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\CarSales_DWBI\\CarSales_SSAS\\CarSales_SSAS\\Payment.dim [Design]",
+              "RelativeToolTip": "CarSales_SSAS\\Payment.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-03T07:59:29.903Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dealer.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\CarSales_DWBI\\CarSales_SSAS\\CarSales_SSAS\\Dealer.dim",
+              "RelativeDocumentMoniker": "CarSales_SSAS\\Dealer.dim",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\CarSales_DWBI\\CarSales_SSAS\\CarSales_SSAS\\Dealer.dim [Design]",
+              "RelativeToolTip": "CarSales_SSAS\\Dealer.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-03T07:59:13.702Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Car.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\CarSales_DWBI\\CarSales_SSAS\\CarSales_SSAS\\Car.dim",
+              "RelativeDocumentMoniker": "CarSales_SSAS\\Car.dim",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\CarSales_DWBI\\CarSales_SSAS\\CarSales_SSAS\\Car.dim [Design]",
+              "RelativeToolTip": "CarSales_SSAS\\Car.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-01T12:40:08.727Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\CarSales_DWBI\\CarSales_SSAS\\CarSales_SSAS\\Customer.dim",
+              "RelativeDocumentMoniker": "CarSales_SSAS\\Customer.dim",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\CarSales_DWBI\\CarSales_SSAS\\CarSales_SSAS\\Customer.dim [Design]",
+              "RelativeToolTip": "CarSales_SSAS\\Customer.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-01T12:32:44.547Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarSales_Cube.cube [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\CarSales_DWBI\\CarSales_SSAS\\CarSales_SSAS\\CarSales_Cube.cube",
+              "RelativeDocumentMoniker": "CarSales_SSAS\\CarSales_Cube.cube",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\CarSales_DWBI\\CarSales_SSAS\\CarSales_SSAS\\CarSales_Cube.cube [Design]",
+              "RelativeToolTip": "CarSales_SSAS\\CarSales_Cube.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-31T21:51:32.604Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CarSales_DSV.dsv [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\CarSales_DWBI\\CarSales_SSAS\\CarSales_SSAS\\CarSales_DSV.dsv",
+              "RelativeDocumentMoniker": "CarSales_SSAS\\CarSales_DSV.dsv",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\CarSales_DWBI\\CarSales_SSAS\\CarSales_SSAS\\CarSales_DSV.dsv [Design]",
+              "RelativeToolTip": "CarSales_SSAS\\CarSales_DSV.dsv [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-31T21:51:24.735Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Date.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\CarSales_DWBI\\CarSales_SSAS\\CarSales_SSAS\\Date.dim",
+              "RelativeDocumentMoniker": "CarSales_SSAS\\Date.dim",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\CarSales_DWBI\\CarSales_SSAS\\CarSales_SSAS\\Date.dim [Design]",
+              "RelativeToolTip": "CarSales_SSAS\\Date.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-31T21:51:21.741Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

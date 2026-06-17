@@ -1,0 +1,143 @@
+<?xml version="1.0"?>
+<DataProfile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.microsoft.com/sqlserver/2008/DataDebugger/">
+  <ProfileVersion>1.0</ProfileVersion>
+  <DataSources>
+    <DtsDataSource ID="{F80794C9-03CB-4BD8-BC31-CA94AD1AD2D4}" Name="Car_Profile.xml">
+      <DtsConnectionManagerID>Car_Profile.xml</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{CC3F1DE5-D99E-4F4D-AF99-82586B169537}" Name="Customer_Profile.xml">
+      <DtsConnectionManagerID>Customer_Profile.xml</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{9C7061FB-1A6F-4AE3-B23A-C672AC8DAB43}" Name="Customer_Profile.xml 1">
+      <DtsConnectionManagerID>Customer_Profile.xml 1</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{297912F4-1103-45A3-A3BE-114810293ACB}" Name="CustomerAddresses_Profile.xml">
+      <DtsConnectionManagerID>CustomerAddresses_Profile.xml</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{D93F8E3C-667B-461C-9BC9-2AC682430BF7}" Name="Dealer_Profile.xml">
+      <DtsConnectionManagerID>Dealer_Profile.xml</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{0E7FAB34-ACA8-4804-B9EB-228AFA81E047}" Name="DESKTOP-FL6L448.CarSales_Staging">
+      <DtsConnectionManagerID>DESKTOP-FL6L448.CarSales_Staging</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{08641C18-8353-4209-B034-1EC575346AE0}" Name="PaymentMethod_profile.xml">
+      <DtsConnectionManagerID>PaymentMethod_profile.xml</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{4D75E776-7B6A-40B6-8BA0-1E297961EB2A}" Name="Sales_profile.xml">
+      <DtsConnectionManagerID>Sales_profile.xml</DtsConnectionManagerID>
+    </DtsDataSource>
+  </DataSources>
+  <DataProfileInput>
+    <ProfileMode>Exact</ProfileMode>
+    <Timeout>0</Timeout>
+    <Requests>
+      <ColumnNullRatioProfileRequest ID="NullRatioReq">
+        <DataSourceID>{0E7FAB34-ACA8-4804-B9EB-228AFA81E047}</DataSourceID>
+        <Table Schema="dbo" Table="StgCar" />
+        <Column IsWildCard="true" />
+      </ColumnNullRatioProfileRequest>
+      <ColumnStatisticsProfileRequest ID="StatisticsReq">
+        <DataSourceID>{0E7FAB34-ACA8-4804-B9EB-228AFA81E047}</DataSourceID>
+        <Table Schema="dbo" Table="StgCar" />
+        <Column IsWildCard="true" />
+      </ColumnStatisticsProfileRequest>
+      <ColumnLengthDistributionProfileRequest ID="LengthDistReq">
+        <DataSourceID>{0E7FAB34-ACA8-4804-B9EB-228AFA81E047}</DataSourceID>
+        <Table Schema="dbo" Table="StgCar" />
+        <Column IsWildCard="true" />
+        <IgnoreLeadingSpace>false</IgnoreLeadingSpace>
+        <IgnoreTrailingSpace>true</IgnoreTrailingSpace>
+      </ColumnLengthDistributionProfileRequest>
+      <ColumnValueDistributionProfileRequest ID="ValueDistReq">
+        <DataSourceID>{0E7FAB34-ACA8-4804-B9EB-228AFA81E047}</DataSourceID>
+        <Table Schema="dbo" Table="StgCar" />
+        <Column IsWildCard="true" />
+        <Option>FrequentValues</Option>
+        <FrequentValueThreshold>0.001</FrequentValueThreshold>
+      </ColumnValueDistributionProfileRequest>
+      <ColumnPatternProfileRequest ID="PatternReq">
+        <DataSourceID>{0E7FAB34-ACA8-4804-B9EB-228AFA81E047}</DataSourceID>
+        <Table Schema="dbo" Table="StgCar" />
+        <Column IsWildCard="true" />
+        <MaxNumberOfPatterns>10</MaxNumberOfPatterns>
+        <PercentageDataCoverageDesired>95</PercentageDataCoverageDesired>
+        <CaseSensitive>false</CaseSensitive>
+        <Delimiters> \t\r\n</Delimiters>
+        <Symbols>,.;:-"'`~=&amp;/\\@!?()&lt;&gt;[]{}|#*^%</Symbols>
+        <TagTableName />
+      </ColumnPatternProfileRequest>
+      <CandidateKeyProfileRequest ID="KeyReq">
+        <DataSourceID>{0E7FAB34-ACA8-4804-B9EB-228AFA81E047}</DataSourceID>
+        <Table Schema="dbo" Table="StgCar" />
+        <KeyColumns>
+          <Column IsWildCard="true" />
+        </KeyColumns>
+        <ThresholdSetting>Specified</ThresholdSetting>
+        <KeyStrengthThreshold>0.95</KeyStrengthThreshold>
+        <VerifyOutputInFastMode>false</VerifyOutputInFastMode>
+        <MaxNumberOfViolations>100</MaxNumberOfViolations>
+      </CandidateKeyProfileRequest>
+      <ColumnNullRatioProfileRequest ID="NullRatioReq1">
+        <DataSourceID>{0E7FAB34-ACA8-4804-B9EB-228AFA81E047}</DataSourceID>
+        <Table Schema="dbo" Table="StgCar" />
+        <Column IsWildCard="true" />
+      </ColumnNullRatioProfileRequest>
+      <ColumnStatisticsProfileRequest ID="StatisticsReq1">
+        <DataSourceID>{0E7FAB34-ACA8-4804-B9EB-228AFA81E047}</DataSourceID>
+        <Table Schema="dbo" Table="StgCar" />
+        <Column IsWildCard="true" />
+      </ColumnStatisticsProfileRequest>
+      <ColumnLengthDistributionProfileRequest ID="LengthDistReq1">
+        <DataSourceID>{0E7FAB34-ACA8-4804-B9EB-228AFA81E047}</DataSourceID>
+        <Table Schema="dbo" Table="StgCar" />
+        <Column IsWildCard="true" />
+        <IgnoreLeadingSpace>false</IgnoreLeadingSpace>
+        <IgnoreTrailingSpace>true</IgnoreTrailingSpace>
+      </ColumnLengthDistributionProfileRequest>
+      <ColumnValueDistributionProfileRequest ID="ValueDistReq1">
+        <DataSourceID>{0E7FAB34-ACA8-4804-B9EB-228AFA81E047}</DataSourceID>
+        <Table Schema="dbo" Table="StgCar" />
+        <Column IsWildCard="true" />
+        <Option>FrequentValues</Option>
+        <FrequentValueThreshold>0.001</FrequentValueThreshold>
+      </ColumnValueDistributionProfileRequest>
+      <ColumnPatternProfileRequest ID="PatternReq1">
+        <DataSourceID>{0E7FAB34-ACA8-4804-B9EB-228AFA81E047}</DataSourceID>
+        <Table Schema="dbo" Table="StgCar" />
+        <Column IsWildCard="true" />
+        <MaxNumberOfPatterns>10</MaxNumberOfPatterns>
+        <PercentageDataCoverageDesired>95</PercentageDataCoverageDesired>
+        <CaseSensitive>false</CaseSensitive>
+        <Delimiters> \t\r\n</Delimiters>
+        <Symbols>,.;:-"'`~=&amp;/\\@!?()&lt;&gt;[]{}|#*^%</Symbols>
+        <TagTableName />
+      </ColumnPatternProfileRequest>
+      <CandidateKeyProfileRequest ID="KeyReq1">
+        <DataSourceID>{0E7FAB34-ACA8-4804-B9EB-228AFA81E047}</DataSourceID>
+        <Table Schema="dbo" Table="StgCar" />
+        <KeyColumns>
+          <Column IsWildCard="true" />
+        </KeyColumns>
+        <ThresholdSetting>Specified</ThresholdSetting>
+        <KeyStrengthThreshold>0.95</KeyStrengthThreshold>
+        <VerifyOutputInFastMode>false</VerifyOutputInFastMode>
+        <MaxNumberOfViolations>100</MaxNumberOfViolations>
+      </CandidateKeyProfileRequest>
+      <FunctionalDependencyProfileRequest ID="FDReq">
+        <DataSourceID>{0E7FAB34-ACA8-4804-B9EB-228AFA81E047}</DataSourceID>
+        <Table Schema="dbo" Table="StgCar" />
+        <DeterminantColumns>
+          <Column IsWildCard="true" />
+        </DeterminantColumns>
+        <DependentColumn IsWildCard="true" />
+        <ThresholdSetting>Specified</ThresholdSetting>
+        <FDStrengthThreshold>0.95</FDStrengthThreshold>
+        <VerifyOutputInFastMode>false</VerifyOutputInFastMode>
+        <MaxNumberOfViolations>100</MaxNumberOfViolations>
+      </FunctionalDependencyProfileRequest>
+    </Requests>
+  </DataProfileInput>
+  <DataProfileOutput>
+    <Profiles />
+  </DataProfileOutput>
+</DataProfile>

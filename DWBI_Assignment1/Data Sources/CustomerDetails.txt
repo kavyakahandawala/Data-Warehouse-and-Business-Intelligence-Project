@@ -1,0 +1,51 @@
+CustomerID	AddressType	AddressLine1	AddressLine2	City	StateProvinceName	PostalCode	CountryRegionName
+CU001	Home	No 12 Glacier Rd	Anchorage	Alaska	99501	USA
+CU002	Home	45 Pine St	Birmingham	Alabama	35203	USA
+CU003	Office	78 Palmetto Ave	Columbia	South Carolina	29201	USA
+CU004	Home	22 Harbor Rd	Baltimore	Maryland	21201	USA
+CU005	Home	10 Mountain View	Denver	Colorado	80014	USA
+CU006	Office	15 Lake St	Indianapolis	Indiana	46201	USA
+CU007	Home	9 River Rd	Nashville	Tennessee	37201	USA
+CU008	Home	33 High St	Columbus	Ohio	43004	USA
+CU009	Office	18 Market St	Baltimore	Maryland	21202	USA
+CU010	Home	77 Bayou Rd	New Orleans	Louisiana	70112	USA
+CU011	Home	88 Ranch Rd	Houston	Texas	77001	USA
+CU012	Office	66 Oak St	Birmingham	Alabama	35204	USA
+CU013	Home	12 Lake Shore	Detroit	Michigan	48201	USA
+CU014	Home	23 Desert Rd	Phoenix	Arizona	85001	USA
+CU015	Office	54 Palm Rd	Charleston	South Carolina	29401	USA
+CU016	Home	11 Sunset Blvd	Las Vegas	Nevada	88901	USA
+CU017	Home	99 North Ave	Minneapolis	Minnesota	55401	USA
+CU018	Office	25 Ocean St	Portland	Maine	04101	USA
+CU019	Home	77 Hill Rd	Billings	Montana	59101	USA
+CU020	Home	88 Beach Rd	Honolulu	Hawaii	96801	USA
+CU021	Office	12 Music Row	Nashville	Tennessee	37202	USA
+CU022	Home	34 Maple St	Madison	Wisconsin	53703	USA
+CU023	Home	55 River St	Billings	Montana	59102	USA
+CU024	Office	66 Sunset Blvd	Los Angeles	California	90001	USA
+CU025	Home	77 Granite St	Concord	New Hampshire	03301	USA
+CU026	Home	88 Harbor Rd	Baltimore	Maryland	21203	USA
+CU027	Office	11 Liberty St	Newark	New Jersey	07101	USA
+CU028	Home	22 Prairie Rd	Sioux Falls	South Dakota	57101	USA
+CU029	Home	33 Lake St	Detroit	Michigan	48202	USA
+CU030	Office	44 Mountain Rd	Charleston	West Virginia	25301	USA
+CU031	Home	55 Broadway	New York	New York	10001	USA
+CU032	Home	66 Delta Rd	Jackson	Mississippi	39201	USA
+CU033	Office	77 Desert St	Albuquerque	New Mexico	87101	USA
+CU034	Home	88 Madison Ave	New York	New York	10002	USA
+CU035	Home	99 Ranch Rd	Casper	Wyoming	82601	USA
+CU036	Office	12 Garden St	Newark	New Jersey	07102	USA
+CU037	Home	23 High St	Columbus	Ohio	43005	USA
+CU038	Home	34 Park Ave	New York	New York	10003	USA
+CU039	Office	45 Bluegrass Rd	Louisville	Kentucky	40201	USA
+CU040	Home	56 Peach St	Atlanta	Georgia	30301	USA
+CU041	Home	67 River Rd	Jackson	Mississippi	39202	USA
+CU042	Office	78 Elm St	Hartford	Connecticut	06101	USA
+CU043	Home	89 Liberty St	Philadelphia	Pennsylvania	19019	USA
+CU044	Home	90 Corn Rd	Omaha	Nebraska	68101	USA
+CU045	Office	21 Ranch Rd	Casper	Wyoming	82602	USA
+CU046	Home	32 Ocean Dr	San Diego	California	92101	USA
+CU047	Home	43 Lake Rd	Detroit	Michigan	48203	USA
+CU048	Office	54 Prairie St	Bismarck	North Dakota	58501	USA
+CU049	Home	65 Sunset Blvd	San Francisco	California	94102	USA
+CU050	Home	76 Harbor St	Portland	Maine	04102	USA
