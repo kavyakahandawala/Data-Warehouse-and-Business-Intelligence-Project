@@ -287,19 +287,6 @@ The cube and reports support analysis such as:
 
 ---
 
-## 🎓 Academic Context
-
-**Module:** IT3021 – Data Warehouse & Business Intelligence
-
-**Assignment:** Assignment 02 – OLAP Cube Development & Business Intelligence Reporting
-
-**Program:** B.Sc. (Hons) Information Technology
-
-**Institution:** Sri Lanka Institute of Information Technology (SLIIT)
-
-**Student ID:** IT23727168
-
----
 
 ## 📝 Notes
 
