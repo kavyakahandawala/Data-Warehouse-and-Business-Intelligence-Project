@@ -1,7 +1,7 @@
 # 📊 Car Sales OLAP Analytics & Business Intelligence Platform
 
 <p align="center">
-  <img src="DWBI_Assignment1/Banner/Image.png" alt="Car Sales BI Banner" width="100%">
+  <img src="DWBI_Assignment1/Banner/Image.png" alt="Car Sales BI Banner" width="80%">
 </p>
 
 <p align="center">
