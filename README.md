@@ -1,5 +1,14 @@
 # 📊 Car Sales OLAP Analytics & Business Intelligence Platform
 
+<p align="center">
+  <img src="DWBI_Assignment1/Banner/image.png" alt="Car Sales BI Banner" width="100%">
+</p>
+
+<p align="center">
+  <strong>SSAS Cube Development • OLAP Analytics • Power BI Dashboards • Excel Reporting</strong>
+</p>
+
+---
 Car Sales OLAP Analytics is a SQL Server Analysis Services (SSAS) and Power BI analytics project built on top of a dimensional data warehouse created from automotive sales data. The project demonstrates multidimensional modeling, OLAP cube development, Excel-based analytical reporting, and interactive Power BI dashboards for business intelligence and decision-making.
 
 The solution includes an SSAS multidimensional cube, Excel OLAP reports, Power BI dashboards, dimension hierarchies, and demonstrations of core OLAP operations including roll-up, drill-down, slice, dice, pivot, and drill-through analysis.
