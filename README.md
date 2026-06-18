@@ -4,8 +4,6 @@ Car Sales OLAP Analytics is a SQL Server Analysis Services (SSAS) and Power BI a
 
 The solution includes an SSAS multidimensional cube, Excel OLAP reports, Power BI dashboards, dimension hierarchies, and demonstrations of core OLAP operations including roll-up, drill-down, slice, dice, pivot, and drill-through analysis.
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/aab9f779-ec87-4a71-ab59-c5e01a4b0af8" />
-
 
 ---
 
