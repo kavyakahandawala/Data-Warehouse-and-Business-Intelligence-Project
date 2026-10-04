@@ -1,4 +1,4 @@
-#  📊 Car Sales OLAP Analytics & Business Intelligence Platform
+#  📊 Car Sales OLAP Analytics & Business Intelligence Platform 
 
 <p align="center">
   <img src="DWBI_Assignment1/Banner/Image.png" alt="Car Sales BI Banner" width="80%">
